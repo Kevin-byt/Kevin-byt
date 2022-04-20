@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kevin-byt
-- 👀 I’m interested in python, DevOPs
-- 🌱 I’m currently learning Python, AWS, Docker, Kubernetes, APIs, Linux
-- 💞️ I’m looking to collaborate on Python Development and DevOps projects
+- 👀 I’m interested in python, DevOPs, Blockchain
+- 🌱 I’m currently learning Python, AWS, Docker, Kubernetes, APIs, Linux, Solidity
+- 💞️ I’m looking to collaborate on Python Development, Blockchain and DevOps projects
 - 📫 How to reach me ...
 
 <!---
