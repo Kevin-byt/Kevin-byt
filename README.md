@@ -2,7 +2,6 @@
 - 👀 I’m interested in python, DevOPs, Blockchain
 - 🌱 I’m currently learning Python, AWS, Docker, Kubernetes, APIs, Linux, Solidity
 - 💞️ I’m looking to collaborate on Python Development, Blockchain and DevOps projects
-- 📫 How to reach me ...
 
 <!---
 Kevin-byt/Kevin-byt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
