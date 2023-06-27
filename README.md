@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin Kiruri - @Kevin-byt
-- 👀 I’m interested in AWS, Python, SQL, Linux, DevOPs, Data Science
+- 👀 I’m interested in AWS, Python, SQL, Linux, DevOps, Data Science
 - 🌱 I’m currently learning Python, AWS, Docker, Kubernetes, APIs, Linux, Power-BI, SQL
 - 💞️ I’m looking to collaborate on Python Development, AWS, Data Analysis and DevOps projects
 
